@@ -1,0 +1,6 @@
+print('5\a')
+print('4\a')
+print('3\a')
+print('2\a')
+print('1\a')
+print('Happy New Year')

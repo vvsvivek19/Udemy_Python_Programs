@@ -1,0 +1,4 @@
+apples are red
+grapes are green
+bananas are yellow
+cherries are red

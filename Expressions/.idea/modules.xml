@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Conditionals/.idea/Conditionals.iml" filepath="$PROJECT_DIR$/../Conditionals/.idea/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Datastructure_Modules/.idea/Datastructure_Modules.iml" filepath="$PROJECT_DIR$/../Datastructure_Modules/.idea/Datastructure_Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dictionary/.idea/Dictionary.iml" filepath="$PROJECT_DIR$/../Dictionary/.idea/Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exception Handling/.idea/Exception Handling.iml" filepath="$PROJECT_DIR$/../Exception Handling/.idea/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Expressions.iml" filepath="$PROJECT_DIR$/.idea/Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../File_Handling/.idea/File Handling.iml" filepath="$PROJECT_DIR$/../File_Handling/.idea/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multithreading/.idea/Multithreading.iml" filepath="$PROJECT_DIR$/../Multithreading/.idea/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPs/.idea/OOPs.iml" filepath="$PROJECT_DIR$/../OOPs/.idea/OOPs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Py_Database_connectivity/.idea/Py_Database_connectivity.iml" filepath="$PROJECT_DIR$/../Py_Database_connectivity/.idea/Py_Database_connectivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Date_Time/.idea/Python_Date_Time.iml" filepath="$PROJECT_DIR$/../Python_Date_Time/.idea/Python_Date_Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Functions/.idea/Python_Functions.iml" filepath="$PROJECT_DIR$/../Python_Functions/.idea/Python_Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Loops/.idea/Python_Loops.iml" filepath="$PROJECT_DIR$/../Python_Loops/.idea/Python_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python_Practice/.idea/Python_Practice.iml" filepath="$PROJECT_DIR$/../../Python_Practice/.idea/Python_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Strings/.idea/Python_Strings.iml" filepath="$PROJECT_DIR$/../Python_Strings/.idea/Python_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_lists/.idea/Python_lists.iml" filepath="$PROJECT_DIR$/../Python_lists/.idea/Python_lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Strings/.idea/Strings.iml" filepath="$PROJECT_DIR$/../Strings/.idea/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tkinter/.idea/Tkinter.iml" filepath="$PROJECT_DIR$/../Tkinter/.idea/Tkinter.iml" />
+    </modules>
+  </component>
+</project>
