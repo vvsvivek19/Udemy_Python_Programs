@@ -1,6 +1,6 @@
 import csv
 
-f = open('employees.csv')
+f = open(r'D:\Dev Role Prep\Tutorial Practice Codes\Udemy_Python_Programs\OS_Module\employees.csv')
 csv_reader = csv.reader(f)
 
 next(csv_reader)
