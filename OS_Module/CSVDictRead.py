@@ -2,7 +2,7 @@ import csv
 import pprint
 
 # Open the CSV file for reading
-f = open('Employees1.csv')
+f = open(r'D:\Dev Role Prep\Tutorial Practice Codes\Udemy_Python_Programs\OS_Module\Employees1.csv')
 
 # Create a CSV DictReader object to read the file as a dictionary
 rdr = csv.DictReader(f)
